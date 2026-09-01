@@ -14,6 +14,7 @@ const links = [
   { href: "/tracking", label: "Tracking" },
   { href: "/settings", label: "Settings" },
   { href: "/health", label: "Health" },
+  { href: "/assistant", label: "Assistant" },
 ];
  
 export default function Navbar() {
